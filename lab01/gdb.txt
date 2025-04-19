@@ -1,9 +1,9 @@
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
+1. add arguments set args arg1 ... / clear arguments set args
+2. break(b) function 
+3. step / n
+4. if you want to go inside the function, you can use step. if not, you should use next.
+5. continue
+6. p/print x
+7. display 
+8. info locals / info args
+9. q
