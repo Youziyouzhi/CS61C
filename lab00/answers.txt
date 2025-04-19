@@ -1,4 +1,4 @@
-1.
-2.
-3.
-4.
+1. grep
+2. ps aux & top
+3. kill -9 process
+4. diff  file1 file2
